@@ -181,6 +181,37 @@
   }
 }
 
+@media screen and (max-width: 1200px) {
+  #bg {
+    height: 100vh !important;
+  }
+  .logo #logo {
+    width: 160px;
+    height: 140px;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .heading {
+    font-size: 35px;
+    top: 60%;
+  }
+  .team-heading{
+    font-size: 2rem;
+  }
+  .member-card{
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .site {
+    padding: 12px 25px;
+    font-size: 16px;
+  }
+}
+
 @media screen and (max-width: 900px) {
   #bg {
     height: 100vh !important;
