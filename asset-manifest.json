@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ash_stc/static/css/main.abd78451.css",
+    "main.js": "/ash_stc/static/js/main.921b916f.js",
+    "static/js/787.a724be54.chunk.js": "/ash_stc/static/js/787.a724be54.chunk.js",
+    "static/media/Finance_bg2.png": "/ash_stc/static/media/Finance_bg2.8191edc8c8c93a47e92e.png",
+    "static/media/secy.png": "/ash_stc/static/media/secy.1dee2eb55b297cb16909.png",
+    "static/media/g1.png": "/ash_stc/static/media/g1.3c92eed9719d8d34d465.png",
+    "static/media/Febs_logo.png": "/ash_stc/static/media/Febs_logo.22daf9c5ac2480cb4192.png",
+    "static/media/g3.png": "/ash_stc/static/media/g3.77845f5f4c2dd2d1faae.png",
+    "static/media/g2.png": "/ash_stc/static/media/g2.4cb77baac6ed0d8c2a49.png",
+    "index.html": "/ash_stc/index.html",
+    "main.abd78451.css.map": "/ash_stc/static/css/main.abd78451.css.map",
+    "main.921b916f.js.map": "/ash_stc/static/js/main.921b916f.js.map",
+    "787.a724be54.chunk.js.map": "/ash_stc/static/js/787.a724be54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd78451.css",
+    "static/js/main.921b916f.js"
+  ]
+}
